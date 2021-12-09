@@ -97,3 +97,5 @@ C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.
 C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.API\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
 C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.API\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
 C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.API\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
+C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
