@@ -27,6 +27,7 @@ namespace ControleFinanceiro.DAL.Mapeamentos
                     Nome = "Ganho"
 
                 });
+            builder.ToTable("Tipos");
         }
     }
 }
