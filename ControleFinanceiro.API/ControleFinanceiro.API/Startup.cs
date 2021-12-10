@@ -75,7 +75,7 @@ namespace ControleFinanceiro.API
                 endpoints.MapControllers();
             });
 
-            app.UseSpa(spa => 
+            /*app.UseSpa(spa => 
             {
                 spa.Options.SourcePath = Path.Combine(Directory.GetCurrentDirectory(), "ControleFinanceiro-UI");
 
@@ -83,7 +83,7 @@ namespace ControleFinanceiro.API
                 {
                     spa.UseProxyToSpaDevelopmentServer($"http://localhost:4200/");
                 }
-            });
+            });*/
         }
     }
 }

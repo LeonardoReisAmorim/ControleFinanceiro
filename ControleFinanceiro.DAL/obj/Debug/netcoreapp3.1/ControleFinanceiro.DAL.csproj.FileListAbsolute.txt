@@ -11,3 +11,6 @@ C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.
 C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CopyComplete
 C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
 C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
+C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.runtimeconfig.json
+C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.runtimeconfig.dev.json
+C:\Users\leore\OneDrive\Área de Trabalho\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.genruntimeconfig.cache

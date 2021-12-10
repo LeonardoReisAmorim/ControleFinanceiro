@@ -7,23 +7,25 @@
   <ItemGroup>
     <Compile Remove="Migrations\20211209190738_criacaoBancoDados.cs" />
     <Compile Remove="Migrations\20211209190738_criacaoBancoDados.Designer.cs" />
+    <Compile Remove="Migrations\20211209190937_criacaoBancoDados.cs" />
+    <Compile Remove="Migrations\20211209190937_criacaoBancoDados.Designer.cs" />
+    <Compile Remove="Migrations\20211210125854_criacaoBancoDados.cs" />
+    <Compile Remove="Migrations\20211210125854_criacaoBancoDados.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Interfaces\" />
-    <Folder Include="Migrations\" />
     <Folder Include="Repositorios\" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.7">
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.21" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.21" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.21" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.21">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
   </ItemGroup>
 
   <ItemGroup>

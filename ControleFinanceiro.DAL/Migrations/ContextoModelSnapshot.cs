@@ -15,7 +15,7 @@ namespace ControleFinanceiro.DAL.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.7")
+                .HasAnnotation("ProductVersion", "3.1.21")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
@@ -166,16 +166,16 @@ namespace ControleFinanceiro.DAL.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "055f6c76-0191-4c3f-8309-b0f4cedf3ecd",
-                            ConcurrencyStamp = "ec3c390f-245c-48ee-913e-1314bb57a5af",
+                            Id = "bb413ef5-30c2-4e4f-8201-474dc1cd5445",
+                            ConcurrencyStamp = "b38b66f1-ced4-471f-bb54-b2f449cc64d0",
                             Descricao = "Administrador do sistema",
                             Name = "Administrador",
                             NormalizedName = "ADMINISTRADOR"
                         },
                         new
                         {
-                            Id = "d92acf17-b568-4b67-9472-862224c7b5e4",
-                            ConcurrencyStamp = "8acf4208-2f2e-4951-931b-c228d506eee5",
+                            Id = "89dc0876-6743-4088-8d7d-46f11eec0b54",
+                            ConcurrencyStamp = "27d53489-9c15-43d5-bdbd-31b3ca2edff7",
                             Descricao = "Usuario do sistema",
                             Name = "Usuario",
                             NormalizedName = "USUARIO"
